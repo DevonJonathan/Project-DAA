@@ -1,5 +1,5 @@
 
-# Navigation System User Guide
+# Dijkstra Algorithm For Vehicle Navigation By Considering Intersection  
 
 ## Overview
 
@@ -92,15 +92,6 @@ To add a road between two locations:
 nav.add_road(start_node, end_node, distance)
 ```
 
-You can also modify the algorithm or visual representation as needed.
-
-## Contributing
-
-Feel free to fork the project and submit pull requests. If you encounter any issues or have suggestions for improvement, open an issue on GitHub.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
